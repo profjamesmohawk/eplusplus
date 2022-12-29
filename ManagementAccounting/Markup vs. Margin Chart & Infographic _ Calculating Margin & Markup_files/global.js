@@ -1,0 +1,2 @@
+jQuery(function(){var siteHeader=$(".site-header");var siteHeaderHeight=siteHeader.height();jQuery(window).scroll(function(){if((jQuery(this).scrollTop()>siteHeaderHeight)&&(jQuery(window).width()>768)){jQuery('#header').addClass('fixed');}
+else{jQuery('#header').removeClass('fixed');}});marketing.modules.liveAgent.initialize();});
