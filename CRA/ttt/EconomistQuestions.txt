@@ -1,0 +1,18 @@
+1) Who does "The Economist" think will benefit from the pandemic?
+	-Large companies
+	-Small companies
+	-Consumers
+
+2) How many days worth of inventory does Apple have?
+	-30
+	-10
+	-42
+
+3) Does "The Economist" think that the pandemic will motivate companies to move manufacturing closer to their home bases?
+	-Yes
+	-No
+
+4) What fraction of America's industries have become more concentrated since the 1990's?
+	- 1/2
+	- 1/10
+	- 2/3
